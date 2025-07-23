@@ -7,19 +7,6 @@
 
 ---
 
-## 💼 Internships & Experience
-
-- 🛡️ **HTC Global Services (Jun 2025 – Jul 2025)**  
-  Automated CVE data extraction from Tenable using Python for threat intelligence.
-
-- 🔍 **Qadit Systems & Solutions (Nov 2024 – Dec 2024)**  
-  Worked as a **VAPT Intern**. Gained hands-on experience in vulnerability management, pen-testing, and scanning tools.
-
-- 🌐 **BSNL, Meenambakkam (May 2024 – Jun 2024)**  
-  Network and telecommunications intern; learned real-time network infrastructure.
-
----
-
 ## 🔨 Projects
 
 - 🎯 **Intrusion Detection and Prevention System**  
@@ -58,19 +45,7 @@
 
 ---
 
-## 🏆 Achievements
-
-- 📄 **Research Paper**: *Federated Learning for Network Intrusion Detection*  
-  → Achieved 85.28% accuracy using Bi-LSTM + SHAP + FedProx + DQN  
-  → Detected 17 attack types effectively
-
-- 🔐 **TryHackMe**:  
-  → Completed 45+ hands-on modules  
-  → Maintained a 30+ day learning streak
-
-- 💡 **LeetCode**:  
-  → Solved 400+ problems  
-  → Current Contest Rating: 1670
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3369369" style='border:none;'></iframe>
 
 ---
 # 💻 Tech Stack:
