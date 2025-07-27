@@ -3,7 +3,7 @@
 🎓 I'm a 3rd year Computer Science Engineering student @ Chennai Institute of Technology (2023–2027), specializing in **Cybersecurity**.  
 🔐 Certified in Security+ with hands-on VAPT, penetration testing, and threat modeling experience.  
 🛠️ Actively building real-world security projects & exploring federated learning, AI-based IDS, and emerging security trends.  
-📚 CGPA: 8.0 (till 3rd semester)
+📚 CGPA: Don't ask T^T
 
 ---
 
