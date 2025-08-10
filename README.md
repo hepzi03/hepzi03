@@ -7,20 +7,6 @@
 
 ---
 
-## 🔨 Projects
-
-- 🎯 **Intrusion Detection and Prevention System**  
-  Built using Express.js, MongoDB & WebSocket for real-time threat blocking.
-
-- 🎧 **Music Streaming Platform**  
-  Full-stack platform with playlists, likes, seamless playback.  
-  HTML + CSS + Figma frontend | MongoDB + Node backend
-
-- 🤖 **Federated Learning-Based Adaptive Cybersecurity System**  
-  Trained distributed IDS using Flower & CIC-IDS2017. Focused on privacy-preserving threat detection.
-
----
-
 ## 📚 Skills & Tools
 
 **Languages & Frameworks**:  
